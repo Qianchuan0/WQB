@@ -1,4 +1,5 @@
 # WQB
 下pnl数据到本地进行自相关检测 把符合条件的alpha写入到result文件中  
+可以使用excel打开该文件对alpha的各项表现进行分析
 由于alpha太多 使用sumbit读取刚刚保存的result文件自动对alpha进行提交
 提交alpha这个文件仅限用户阶段使用，在顾问阶段要保证alpha的质量再进行提交
